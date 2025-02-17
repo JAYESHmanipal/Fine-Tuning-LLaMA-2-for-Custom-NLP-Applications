@@ -1,11 +1,11 @@
  Fine-Tuning LLaMA 2 for Custom NLP Applications
 
-Description
+Description:
 
 This project explores the fine-tuning of Meta’s LLaMA 2 model using parameter-efficient training techniques. It includes data preprocessing, training configuration, and evaluation to adapt LLaMA 2 for domain-specific NLP tasks.
 
 
-Features
+Features:
 
 Fine-tuning LLaMA 2 with efficient training strategies
 
@@ -18,7 +18,7 @@ Model evaluation and benchmarking
 Deployment considerations for inference
 
 
-Model Training
+Model Training:
 
 The training pipeline involves:
 
